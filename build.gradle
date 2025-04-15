@@ -4,12 +4,11 @@ jacoco {
     toolVersion = "0.8.7" 
 } 
 java { 
-        sourceCompatibility = JavaVersion.VERSION_1_8 
-        targetCompatibility = JavaVersion.VERSION_1_8 
+    sourceCompatibility = JavaVersion.VERSION_1_8 
+    targetCompatibility = JavaVersion.VERSION_1_8 
 } 
-
 group = 'com.example' 
-version = 'V1'
+version = 'V1' 
 
 repositories { 
     mavenCentral() 
